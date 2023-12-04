@@ -1,0 +1,14 @@
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\bin\Debug\net8.0\MatrixTraceTask.exe
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\bin\Debug\net8.0\MatrixTraceTask.deps.json
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\bin\Debug\net8.0\MatrixTraceTask.runtimeconfig.json
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\bin\Debug\net8.0\MatrixTraceTask.dll
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\bin\Debug\net8.0\MatrixTraceTask.pdb
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.AssemblyInfoInputs.cache
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.AssemblyInfo.cs
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.dll
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\refint\MatrixTraceTask.dll
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.pdb
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\MatrixTraceTask.genruntimeconfig.cache
+D:\ПРОЕКТИ\Foxminded\MatrixTraceTask\MatrixTraceTask\obj\Debug\net8.0\ref\MatrixTraceTask.dll
