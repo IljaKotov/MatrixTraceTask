@@ -11,3 +11,25 @@ p
 ZMatrixTraceTask/obj/Debug/net8.0/MatrixTraceTask.GeneratedMSBuildEditorConfig.editorconfig,9\5\95cdfb2be74e21f064014d0d81c8af34cf901e18
 r
 BMatrixTraceTask/obj/Debug/net8.0/MatrixTraceTask.GlobalUsings.g.cs,5\6\5626b2cd47ad220935e8fe3380bee7451f0d7965
+I
+MatrixTraceTask/Matrix.cs,e\c\ecf82d57160f0e76f7863e9c9e7d835fa29ebedc
+]
+-MatrixTraceTask/InvalidMatrixSizeException.cs,4\3\4323b5db896afd15b429eda1d944900979e2a51f
+T
+$MatrixTraceTask/MatrixFromConsole.cs,4\f\4f91301d2fb5d94890a0ceb9fa126c44b3f110f6
+O
+MatrixTraceTask/MatrixHelper.cs,1\2\12189cc4d73192a4ca2cadb8142d84f4af2767cb
+T
+$MatrixTraceTaskTests/GlobalUsings.cs,c\2\c2b8e4f34c4682215cb555b3e0421a0a4dea3f4b
+Q
+!MatrixTraceTaskTests/UnitTest1.cs,7\5\759c271e2a42256d9150ae03284fdb10cdd94b59
+T
+$MatrixTraceTaskTests/Matrix_Tests.cs,6\6\66229773c1dfbb47812d694bf71f6a836c30416b
+Y
+)MatrixTraceTaskTests/MatrixTrace_Tests.cs,9\8\98f3ea1cc61560b0b26029b1b27770cf979bf324
+\
+,MatrixTraceTaskTests/GetMatrixSnake_Tests.cs,8\d\8d2790785121332feb097e6181a51b01aa4e71d1
+X
+(MatrixTraceTaskTests/MatrixTraceTests.cs,c\1\c173f4e16f653c5d9cb28cd439edda3a142774cc
+[
++MatrixTraceTaskTests/GetMatrixSnakeTests.cs,b\3\b3def9093b2a54fe0166cc409caa9986c23e0dfe

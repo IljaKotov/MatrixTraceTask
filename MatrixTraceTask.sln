@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTraceTask", "MatrixTraceTask\MatrixTraceTask.csproj", "{BBD36030-CCB7-42EB-A48B-BACC5D166B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTraceTaskTests", "MatrixTraceTaskTests\MatrixTraceTaskTests.csproj", "{D579FF7B-32EB-4184-ACFB-5488E23A5CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BBD36030-CCB7-42EB-A48B-BACC5D166B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD36030-CCB7-42EB-A48B-BACC5D166B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD36030-CCB7-42EB-A48B-BACC5D166B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D579FF7B-32EB-4184-ACFB-5488E23A5CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D579FF7B-32EB-4184-ACFB-5488E23A5CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D579FF7B-32EB-4184-ACFB-5488E23A5CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D579FF7B-32EB-4184-ACFB-5488E23A5CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
