@@ -33,3 +33,11 @@ X
 (MatrixTraceTaskTests/MatrixTraceTests.cs,c\1\c173f4e16f653c5d9cb28cd439edda3a142774cc
 [
 +MatrixTraceTaskTests/GetMatrixSnakeTests.cs,b\3\b3def9093b2a54fe0166cc409caa9986c23e0dfe
+”
+dMatrixTraceTaskTests/obj/Debug/net8.0/MatrixTraceTaskTests.GeneratedMSBuildEditorConfig.editorconfig,d\6\d6d34190239d864ef5e4e4046929a6257c2a10c9
+|
+LMatrixTraceTaskTests/obj/Debug/net8.0/MatrixTraceTaskTests.GlobalUsings.g.cs,5\f\5f10e4117589436befec7cf9bdca1ff3b5a0b3cc
+`
+0MatrixTraceTaskTests/MatrixTraceTaskTests.csproj,7\0\7021bcaa6b1d6859916e8c3d7d9f64c25c1d28c2
+z
+JMatrixTraceTaskTests/obj/Debug/net8.0/MatrixTraceTaskTests.AssemblyInfo.cs,5\a\5ab7e40c845caddbb636a0ac9d2c20c0826a85cd
